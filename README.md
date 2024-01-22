@@ -1,4 +1,12 @@
 # FluxSend Python Script (Requires Fullnode Fluxd Running)
+
+## Prerequisites
+**Python 3 is required** https://www.python.org/downloads/
+
+```python
+pip install python-bitcoinrpc
+```
+
 ## Updating the Script
 ### Inside sendflux.py
 
