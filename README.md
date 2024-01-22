@@ -6,8 +6,15 @@
 ```python
 pip install python-bitcoinrpc
 ```
+## Create payment file use flux-payment-example.json as an example
+```json
+{ 
+    "t1eVqdfpJQynSzPGNCqSmUkeA1H5WCJYyir": 25621,
+    "address": 0
+}
+```
 
-## Updating the Script
+## Updating the Script with your from address and the file you just created
 ### Inside sendflux.py
 
   ```python
